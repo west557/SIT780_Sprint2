@@ -1,0 +1,15 @@
+
+- use https://react-bootstrap.github.io/
+- develop a website
+
+Pages
+- home
+- why us
+- product (credit control)
+- contact us > contact us form
+- login > link to csdata.com.au/login
+- register > link to https://www.csdata.com.au/register
+
+
+Host
+AWS Amplify, I can help with this
